@@ -12,24 +12,25 @@
 | **Domain Context** | Does usage in one area improve quality in adjacent areas? | Siloed | Cross-domain transfer |5/5 |
 | **Network** | Does each new user / team make the product better for everyone? | Isolated | Strong network effects | 2/5 |
 
-### Correction Loop - __/5
+### Correction Loop - 4/5
 **What you capture today:**
 **How it compounds:**
 
-### Preference Loop - __/5
+### Preference Loop - 4/5
 **What you capture today:**
 **How it compounds:**
 
-### Domain Context Loop - __/5
+### Domain Context Loop - 5/5
 **What you capture today:**
 **How it compounds:**
 
-### Network Loop - __/5
+### Network Loop - 2/5
 **What you capture today:**
 **How it compounds:**
 
-**Total Flywheel Score: __/20**
+**Total Flywheel Score: 15/20**
 **Weakest Loop:**
+Network Loop
 **Fix for weakest loop:**
 
 ---
