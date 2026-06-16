@@ -29,8 +29,8 @@
 |--------|--------|-------------|-----------------|
 | Accuracy | > 95%| | |
 | Hallucination rate | < 1%| | |
-| Latency (p95) | | | |
-| Drift velocity | | | |
+| Latency (p95) |< 3 Sec | | |
+| Drift velocity |< 3% accuracy change | | |
 
 ## HITL Architecture
 <!-- When does a human step in? What's the escalation path? -->
