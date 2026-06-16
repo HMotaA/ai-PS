@@ -27,8 +27,8 @@
 
 | Metric | Target | Measurement | Alert Threshold |
 |--------|--------|-------------|-----------------|
-| Accuracy | | | |
-| Hallucination rate | | | |
+| Accuracy | > 95%| | |
+| Hallucination rate | < 1%| | |
 | Latency (p95) | | | |
 | Drift velocity | | | |
 
