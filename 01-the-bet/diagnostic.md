@@ -4,7 +4,9 @@
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
 **Product: Agent Trainer**
-A realistic training platform that provides simulated customer interactions, allowing agents to practice and master their skills in a risk-free enviroment.
+A realistic training platform that provides simulated customer interactions, allowing agents to practice and master their skills in a risk-free enviroment. Set Context, Simulate and Evaluate. It uses 2 AI Engines:
+1. AI-Powered customer voice and chat emulation
+2. Immediate evaluative feedback.
 
 **Your Role: Senior Business Specialist**
 
