@@ -3,8 +3,9 @@
 ## Product
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
-**Product:**
-**Your Role:**
+**Product: Agent Trainer**
+A realistic training platform that provides simulated customer interactions, allowing agents to practice and master their skills in a risk-free enviroment.
+**Your Role: Senior Business Specialist **
 
 ---
 
