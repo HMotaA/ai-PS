@@ -5,7 +5,8 @@
 
 **Product: Agent Trainer**
 A realistic training platform that provides simulated customer interactions, allowing agents to practice and master their skills in a risk-free enviroment.
-**Your Role: Senior Business Specialist **
+
+**Your Role: Senior Business Specialist**
 
 ---
 
