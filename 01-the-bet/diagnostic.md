@@ -29,7 +29,7 @@ Claude Vibe coding
 *Proprietary signal that compounds with usage. What do you see that OpenAI doesn't?*
 
 **Score rationale:**
-We have PII proteccion since we deal with sensitive data and we need to have compliance on how we use, store and process the data
+*We have PII proteccion since we deal with sensitive data and we need to have compliance on how we use, store and process the data
 **Named attacker (from partner challenge):**
 NICE CXone
 ---
@@ -52,4 +52,3 @@ Genesys or NICE ships native simulation — your customers don't need a separate
 ## Confidence Level
 M
 <!-- H / M / L — how confident are you in this bet after the diagnostic? -->
-M
