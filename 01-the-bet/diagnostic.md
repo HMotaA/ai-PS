@@ -31,7 +31,7 @@ Claude Vibe coding
 **Score rationale:**
 We have PII proteccion since we deal with sensitive data and we need to have compliance on how we use, store and process the data
 **Named attacker (from partner challenge):**
-
+NICE CXone
 ---
 
 ### Platform Exposure — 4/5
@@ -41,11 +41,13 @@ We have PII proteccion since we deal with sensitive data and we need to have com
 We also act as consultants, we analyze the workflows and trasncripts to help them create scenarios and skills tailored to their workflow, customers and industry.
 
 **Named attacker (from partner challenge):**
-
+Genesy
 ---
 
 ## Top Vulnerability
 <!-- One line: what's the single biggest strategic risk? -->
+Genesys or NICE ships native simulation — your customers don't need a separate license because it's already in their platform.
 
 ## Confidence Level
 <!-- H / M / L — how confident are you in this bet after the diagnostic? -->
+M
