@@ -16,18 +16,24 @@
 
 **Triage model:**
 Claude Haiku
+
 **Frontier model:**
 Claude Sonnet
+
 **Routing rule:**
 Basic yes/no skill checks and simple grading → Haiku. Full customer persona simulation, nuanced skill evaluation, and multi-turn conversations → Sonnet.
+
 **Expected cascade ratio:**
 30% Haiku / 70% Sonnet
+
 ## Pricing Model
 
 **Current pricing:**
 Per license (seat-based)
+
 **Proposed AI pricing:**
 Hybrid — base seat fee + usage tier above a session threshold
+
 **Model:** seat-based / usage-based / outcome-based / hybrid
 hybrid
 
