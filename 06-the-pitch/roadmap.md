@@ -7,23 +7,22 @@
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| | | H / M / L |
-| | | H / M / L |
+| Automate failure pattern detection — surface Scenario Gap Alerts to BA/CSM when >40% of agents fail a scenario type within 30 days| % of scenario gaps caught proactively vs. manually| H |
+
 
 ### Horizon 2 — Next (3-9 months)
 *Bets. Requires new capabilities or integrations.*
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| | | H / M / L |
-| | | H / M / L |
+|Native scenario generation from transcript — build scenario creation inside the platform, eliminating the ChatGPT workaround and reducing data exposure risk | % of customers using native generation vs. manual upload; BA onboarding time reduction| H  |
 
 ### Horizon 3 — Bet (9-18 months)
 *Moonshots. High uncertainty, high potential.*
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| | | H / M / L |
+| Vertical scenario libraries — pre-built, BA-validated scenario packs by industry (insurance, banking, telecom, healthcare) — accelerates onboarding, reduces BA cost per customer, creates a compounding product asset| Onboarding time reduction; new vertical expansion rate| M|
 
 ## Board Pitch
 
