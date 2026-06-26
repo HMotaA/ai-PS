@@ -45,9 +45,11 @@ Genesy
 ---
 
 ## Top Vulnerability
-<!-- One line: what's the single biggest strategic risk? -->
 Genesys or NICE ships native simulation — your customers don't need a separate license because it's already in their platform.
+<!-- One line: what's the single biggest strategic risk? -->
+
 
 ## Confidence Level
+M
 <!-- H / M / L — how confident are you in this bet after the diagnostic? -->
 M
