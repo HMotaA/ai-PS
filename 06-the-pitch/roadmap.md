@@ -47,6 +47,10 @@ Fund Horizon 2 and 3 — native scenario generation, LMS/CRM integrations, and i
 *Your 3-sentence AI strategy from Module 1 vs. what you'd say now:*
 
 **M1 baseline:**
+Agent Trainer A realistic training platform that provides simulated customer interactions, allowing agents to practice and master their skills in a risk-free enviroment. Set Context, Simulate and Evaluate. It uses 2 AI Engines:
+
+AI-Powered customer voice and chat emulation
+Immediate evaluative feedback.
 
 **Now:**
 Agent Trainer is a Copilot-class AI product serving contact centers — it compounds agent skill with every simulation, not every hire. Our moat is not the AI engine; it's the multilingual voice layer, the consulting relationship, and the scenario libraries customers build with us over time. The 12–18 month window before platform encroachment is real — we win it by going deeper into vertical workflows faster than any platform can follow.
